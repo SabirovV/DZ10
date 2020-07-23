@@ -1,4 +1,3 @@
-(function () {
     function sum (val) {
         var temp = val;
         sum = function() {
@@ -10,5 +9,5 @@
     console.log(sum(3)); 
     console.log(sum(5)); 
     console.log(sum(20)); 
-}());
+
 
